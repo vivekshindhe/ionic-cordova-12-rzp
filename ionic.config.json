@@ -1,0 +1,7 @@
+{
+  "name": "SampleStandardRzp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
